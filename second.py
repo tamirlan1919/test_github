@@ -4,8 +4,9 @@ def add(a: int, b: int) -> int:
     return a + b
 
 
-result = add(3, 4)
-print(result)
+def munus(a: int, b: int) -> int:
+    """Returns the difference of a and b."""
+    return a - b
 
 
 
